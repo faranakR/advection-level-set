@@ -12,4 +12,4 @@ Implementation of Hamilton-Jacobi ENO scheme for solving advection equations usi
 
 ## Author
 Faranak Rajabi
-University of California, Santa Barbara
+
